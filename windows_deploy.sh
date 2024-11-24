@@ -9,7 +9,7 @@ fi
 # docker network create --subnet 172.20.0.0/16 --ip-range 172.20.240.0/20 windows-net
 
 # Run Windows Server 2022 container
-docker run --name server22 -t \
+docker run --name swc-windows -t \
       -e VERSION="${VERSION}" \
       -e RAM_SIZE="${RAM_SIZE}" \
       -e USERNAME="${USERNAME}" \
