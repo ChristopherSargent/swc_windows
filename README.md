@@ -26,7 +26,7 @@ PASSWORD=31nst31n
 DISK_SIZE=64
 CPU_CORES=4
 ```
-  Select from the values below:
+  Select The Windows OS Version from the values below:
   
   | **Value** | **Version**           | **Size** |
   |---|---|---|
