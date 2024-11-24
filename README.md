@@ -3,7 +3,7 @@
 
 * This repository contains a script to deploy containerized Windows Operating Systems via docker containers and KVM. For any additional details or inquiries, please contact me at christopher.sargent@sargentwalker.io.
 * Tested on Ubuntu 22.04 VM
-* [Dockur Windows](https://github.com/dockur/windows/tree/master)
+* Based on the work from [Dockur Windows](https://github.com/dockur/windows/tree/master)
 
 ### Docker install for Ubuntu 
 1. ssh user@IP
