@@ -35,10 +35,10 @@ badb0a8c2e27   dockurr/windows   "/usr/bin/tini -s /r…"   18 minutes ago      
 ```
 8. docker logs -f swc-windows
 
-![Screenshot](resources/windows1.JPG)
+![Screenshot](resources/windows1.jpg)
 
 9. http://localhost:8007/
 
-![Screenshot](resources/windows2.JPG)
+![Screenshot](resources/windows2.jpg)
 
 
